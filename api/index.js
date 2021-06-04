@@ -57,7 +57,7 @@ bot.on('message', (msg) => {
                 );
                 bot.sendMessage(
                     msg.chat.id,
-                    `klasifikasi tegangan ${jres2}`
+                    `Klasifikasi Tegangan ${jres2}`
                 );   
             }) 
         })
